@@ -1,8 +1,4 @@
 
-   *  `debug_data`
- 
-   *  `time`
-
 # Associations
 OpenBMC uses associations to extend the DBUS API without impacting existing objects and interfaces.
 ## `org.openbmc.Associations`
